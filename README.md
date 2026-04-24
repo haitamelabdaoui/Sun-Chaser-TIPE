@@ -1,4 +1,4 @@
-# Sun-Chaser — Solar Panel Orientation Optimization
+# Sun-Chaser: Solar Panel Orientation Optimization
 
 > **TIPE Research Project** | Lycée Albert Schweitzer, Mulhouse, France | 2024–2025  
 > *Presented to the jury of Concours Communs Polytechniques (CCP)*
