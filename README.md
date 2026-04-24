@@ -28,7 +28,7 @@ Using real solar irradiance and sun position data for **Mulhouse, Alsace, France
 
 
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. Data
 - `BDD_eclairement_Mulhouse_2024.csv` — Hourly solar irradiance (W/m²) over the full year 2024 in Mulhouse
@@ -58,7 +58,7 @@ Run a nested `for` loop over all (α, β) angle combinations to find the pair th
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python -> Core simulation & optimization 
 - NumPy -> Vector operations & dot product computation 
@@ -66,7 +66,7 @@ Run a nested `for` loop over all (α, β) angle combinations to find the pair th
 - Matplotlib -> Heatmap 
 
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Install dependencies
