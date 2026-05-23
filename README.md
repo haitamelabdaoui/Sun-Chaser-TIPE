@@ -95,6 +95,6 @@ The script produces:
 
 ## Author
 
-**El Abdaoui Mohamed Haitam**  
+**El Abdaoui Haitam**  
 Engineering Student @ IMT Mines Albi | Renewable Energy & GreenTech  
 [LinkedIn](https://www.linkedin.com/in/haitam-el-abdaoui-129296254)
